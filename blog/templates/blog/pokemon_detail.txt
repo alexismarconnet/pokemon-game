@@ -1,0 +1,6 @@
+<h1>Détails du Pokémon</h1>
+<p>Nom : {{ character.id_character }}</p>
+<p>Type : {{ character.type }}</p>
+<p>État : {{ character.etat }}</p>
+<p><img src="{{ character.photo }}" height="100"></p>
+<p>Lieu : {{ character.lieu }}</p>

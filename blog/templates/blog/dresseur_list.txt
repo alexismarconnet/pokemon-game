@@ -1,0 +1,42 @@
+{% extends 'blog/base.txt' %}
+
+{% block content %}
+<div class="container">
+    <h2 class="text-center">Liste des dresseurs</h2>
+
+    <!-- Bouton pour créer un nouveau dresseur -->
+    <div class="row mb-4">
+        <div class="col text-end">
+            <a href="{% url 'creer_dresseur' %}" class="btn btn-success">Créer un Dresseur</a>
+        </div>
+    </div>
+
+    <!-- Affichage des cartes des dresseurs -->
+    <div class="row">
+        {% for dresseur in dresseurs %}
+        <div class="col-md-4 mb-4 text-center">
+            <div class="card shadow-sm border-0" style="width: 18rem; border-radius: 12px;">
+                <!-- Photo du dresseur -->
+                {% if dresseur.photo %}
+                <img src="{{ dresseur.photo }}" class="card-img-top" alt="{{ dresseur.nom }}" style="height: 200px; object-fit: cover;">
+                {% else %}
+                <div class="card-img-top" style="height: 200px; background-color: #f8f9fa; display: flex; justify-content: center; align-items: center;">
+                    <p class="text-muted">Aucune photo</p>
+                </div>
+                {% endif %}
+
+                <!-- Informations du dresseur -->
+                <div class="card-body">
+                    <h3 class="card-title">{{ dresseur.nom }}</h3>
+                    <a href="{% url 'dresseur_pokemons' dresseur.id %}" class="btn btn-primary mt-2">
+                        Voir les Pokémon de {{ dresseur.nom }}
+                    </a>
+                </div>
+            </div>
+        </div>
+        {% empty %}
+        <p class="text-center">Aucun dresseur disponible pour le moment. Cliquez sur "Créer un Dresseur" pour en ajouter un.</p>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

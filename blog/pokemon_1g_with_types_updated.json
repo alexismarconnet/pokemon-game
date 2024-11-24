@@ -1,0 +1,1210 @@
+{
+    "001": {
+        "id_character": "Bulbizarre",
+        "type": "Plante",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "002": {
+        "id_character": "Herbizarre",
+        "type": "Plante",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/002.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "003": {
+        "id_character": "Florizarre",
+        "type": "Plante",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/003.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "004": {
+        "id_character": "Salamèche",
+        "type": "Feu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "005": {
+        "id_character": "Reptincel",
+        "type": "Feu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/005.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "006": {
+        "id_character": "Dracaufeu",
+        "type": "Feu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "007": {
+        "id_character": "Carapuce",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "008": {
+        "id_character": "Carabaffe",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/008.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "009": {
+        "id_character": "Tortank",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/009.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "010": {
+        "id_character": "Chenipan",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/010.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "011": {
+        "id_character": "Chrysacier",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/011.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "012": {
+        "id_character": "Papilusion",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/012.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "013": {
+        "id_character": "Aspicot",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/013.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "014": {
+        "id_character": "Coconfort",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/014.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "015": {
+        "id_character": "Dardargnan",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/015.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "016": {
+        "id_character": "Roucool",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/016.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "017": {
+        "id_character": "Roucoups",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/017.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "018": {
+        "id_character": "Roucarnage",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/018.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "019": {
+        "id_character": "Rattata",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/019.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "020": {
+        "id_character": "Rattatac",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/020.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "021": {
+        "id_character": "Piafabec",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/021.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "022": {
+        "id_character": "Rapasdepic",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/022.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "023": {
+        "id_character": "Abo",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/023.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "024": {
+        "id_character": "Arbok",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/024.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "025": {
+        "id_character": "Pikachu",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "026": {
+        "id_character": "Raichu",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/026.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "027": {
+        "id_character": "Sabelette",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/027.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "028": {
+        "id_character": "Sablaireau",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/028.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "029": {
+        "id_character": "Nidoran♀",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/029.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "030": {
+        "id_character": "Nidorina",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/030.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "031": {
+        "id_character": "Nidoqueen",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/031.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "032": {
+        "id_character": "Nidoran♂",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/032.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "033": {
+        "id_character": "Nidorino",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/033.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "034": {
+        "id_character": "Nidoking",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/034.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "035": {
+        "id_character": "Mélofée",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/035.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "036": {
+        "id_character": "Mélodelfe",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/036.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "037": {
+        "id_character": "Goupix",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/037.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "038": {
+        "id_character": "Feunard",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/038.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "039": {
+        "id_character": "Rondoudou",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/039.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "040": {
+        "id_character": "Grodoudou",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/040.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "041": {
+        "id_character": "Nosferapti",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/041.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "042": {
+        "id_character": "Nosferalto",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/042.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "043": {
+        "id_character": "Mystherbe",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/043.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "044": {
+        "id_character": "Ortide",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/044.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "045": {
+        "id_character": "Rafflesia",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/045.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "046": {
+        "id_character": "Paras",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/046.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "047": {
+        "id_character": "Parasect",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/047.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "048": {
+        "id_character": "Mimitoss",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/048.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "049": {
+        "id_character": "Aéromite",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/049.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "050": {
+        "id_character": "Taupiqueur",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/050.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "051": {
+        "id_character": "Triopikeur",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/051.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "052": {
+        "id_character": "Miaouss",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/052.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "053": {
+        "id_character": "Persian",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/053.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "054": {
+        "id_character": "Psykokwak",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/054.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "055": {
+        "id_character": "Akwakwak",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/055.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "056": {
+        "id_character": "Férosinge",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/056.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "057": {
+        "id_character": "Colossinge",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/057.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "058": {
+        "id_character": "Caninos",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/058.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "059": {
+        "id_character": "Arcanin",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/059.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "060": {
+        "id_character": "Ptitard",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/060.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "061": {
+        "id_character": "Têtarte",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/061.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "062": {
+        "id_character": "Tartard",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/062.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "063": {
+        "id_character": "Abra",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/063.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "064": {
+        "id_character": "Kadabra",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/064.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "065": {
+        "id_character": "Alakazam",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/065.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "066": {
+        "id_character": "Machoc",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/066.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "067": {
+        "id_character": "Machopeur",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/067.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "068": {
+        "id_character": "Mackogneur",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/068.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "069": {
+        "id_character": "Chétiflor",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/069.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "070": {
+        "id_character": "Boustiflor",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/070.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "071": {
+        "id_character": "Empiflor",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/071.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "072": {
+        "id_character": "Tentacool",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/072.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "073": {
+        "id_character": "Tentacruel",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/073.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "074": {
+        "id_character": "Racaillou",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/074.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "075": {
+        "id_character": "Gravalanch",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/075.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "076": {
+        "id_character": "Grolem",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/076.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "077": {
+        "id_character": "Ponyta",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/077.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "078": {
+        "id_character": "Galopa",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/078.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "079": {
+        "id_character": "Ramoloss",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/079.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "080": {
+        "id_character": "Flagadoss",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/080.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "081": {
+        "id_character": "Magnéti",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/081.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "082": {
+        "id_character": "Magnéton",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/082.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "083": {
+        "id_character": "Canarticho",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/083.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "084": {
+        "id_character": "Doduo",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/084.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "085": {
+        "id_character": "Dodrio",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/085.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "086": {
+        "id_character": "Otaria",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/086.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "087": {
+        "id_character": "Lamantine",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/087.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "088": {
+        "id_character": "Tadmorv",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/088.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "089": {
+        "id_character": "Grotadmorv",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/089.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "090": {
+        "id_character": "Kokiyas",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/090.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "091": {
+        "id_character": "Crustabri",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/091.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "092": {
+        "id_character": "Fantominus",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/092.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "093": {
+        "id_character": "Spectrum",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/093.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "094": {
+        "id_character": "Ectoplasma",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/094.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "095": {
+        "id_character": "Onix",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/095.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "096": {
+        "id_character": "Soporifik",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/096.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "097": {
+        "id_character": "Hypnomade",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/097.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "098": {
+        "id_character": "Krabby",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/098.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "099": {
+        "id_character": "Krabboss",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/099.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "100": {
+        "id_character": "Voltorbe",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/100.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "101": {
+        "id_character": "Électrode",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/101.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "102": {
+        "id_character": "Noeunoeuf",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/102.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "103": {
+        "id_character": "Noadkoko",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/103.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "104": {
+        "id_character": "Osselait",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/104.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "105": {
+        "id_character": "Ossatueur",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/105.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "106": {
+        "id_character": "Kicklee",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/106.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "107": {
+        "id_character": "Tygnon",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/107.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "108": {
+        "id_character": "Excelangue",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/108.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "109": {
+        "id_character": "Smogo",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/109.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "110": {
+        "id_character": "Smogogo",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/110.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "111": {
+        "id_character": "Rhinocorne",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/111.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "112": {
+        "id_character": "Rhinoféros",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/112.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "113": {
+        "id_character": "Leveinard",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/113.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "114": {
+        "id_character": "Saquedeneu",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/114.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "115": {
+        "id_character": "Kangourex",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/115.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "116": {
+        "id_character": "Hypotrempe",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/116.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "117": {
+        "id_character": "Hypocéan",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/117.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "118": {
+        "id_character": "Poissirène",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/118.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "119": {
+        "id_character": "Poissoroy",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/119.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "120": {
+        "id_character": "Stari",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/120.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "121": {
+        "id_character": "Staross",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/121.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "122": {
+        "id_character": "M. Mime",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/122.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "123": {
+        "id_character": "Insécateur",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/123.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "124": {
+        "id_character": "Lippoutou",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/124.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "125": {
+        "id_character": "Élektek",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/125.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "126": {
+        "id_character": "Magmar",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/126.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "127": {
+        "id_character": "Scarabrute",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/127.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "128": {
+        "id_character": "Tauros",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/128.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "129": {
+        "id_character": "Magicarpe",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/129.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "130": {
+        "id_character": "Léviator",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/130.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "131": {
+        "id_character": "Lokhlass",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/131.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "132": {
+        "id_character": "Métamorph",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/132.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "133": {
+        "id_character": "Évoli",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/133.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "134": {
+        "id_character": "Aquali",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/134.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "135": {
+        "id_character": "Voltali",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/135.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "136": {
+        "id_character": "Pyroli",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/136.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "137": {
+        "id_character": "Porygon",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/137.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "138": {
+        "id_character": "Amonita",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/138.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "139": {
+        "id_character": "Amonistar",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/139.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "140": {
+        "id_character": "Kabuto",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/140.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "141": {
+        "id_character": "Kabutops",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/141.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "142": {
+        "id_character": "Ptéra",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/142.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "143": {
+        "id_character": "Ronflex",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/143.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "144": {
+        "id_character": "Artikodin",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/144.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "145": {
+        "id_character": "Électhor",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/145.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "146": {
+        "id_character": "Sulfura",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/146.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "147": {
+        "id_character": "Minidraco",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/147.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "148": {
+        "id_character": "Draco",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/148.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "149": {
+        "id_character": "Dracolosse",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/149.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "150": {
+        "id_character": "Mewtwo",
+        "type": "Inconnu",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/150.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    },
+    "151": {
+        "id_character": "Mew",
+        "type": "Psy",
+        "photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/151.png",
+        "etat": "En pleine santé",
+        "lieu": "Dans sa pokeball",
+        "team": "Sauvage"
+    }
+}

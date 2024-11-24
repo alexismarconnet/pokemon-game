@@ -1,0 +1,103 @@
+.card {
+    background-color: #1e1e1e; /* Couleur sombre pour le thème */
+    border: 2px solid #000;   /* Contour noir */
+    border-radius: 12px;      /* Coins arrondis */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Ombre subtile */
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05); /* Effet au survol */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
+}
+
+/* Style des images */
+.card-img-top {
+    max-height: 150px; /* Hauteur maximale */
+    width: auto;
+    object-fit: contain; /* Assure que l'image ne dépasse pas */
+    border-bottom: 2px solid #000; /* Bordure noire en bas de l'image */
+}
+
+/* Modifie spécifiquement les images trop grandes */
+.pokemon-img {
+    max-height: 150px; /* Empêche Racaillou ou autres de dépasser */
+    object-fit: cover; /* Assure un bon rendu dans la carte */
+}
+
+/* Style des titres */
+.card-title {
+    font-family: 'Roboto', sans-serif; /* Police moderne et élégante */
+    font-weight: 600;
+    color: #fff; /* Couleur blanche pour le titre */
+    text-transform: uppercase; /* Tout en majuscules */
+    font-size: 1.2rem;
+}
+
+/* Badges */
+.badge {
+    font-size: 0.85rem;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+/* Boutons */
+.btn-outline-light {
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 8px;
+    font-size: 0.85rem;
+}
+
+.btn-outline-light:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+/* Card body centré */
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.pokemon-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin: 15px auto;
+}
+
+.pokemon-card img {
+    height: 200px;
+    object-fit: contain;
+    width: 100%; /* S'assure que l'image remplit la largeur */
+    border-bottom: 2px solid #000; /* Séparation visuelle */
+}
+
+.pokemon-card .card-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.pokemon-type-badge {
+    padding: 5px 10px;
+    border-radius: 12px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+}
+.pokemon-card {
+    margin-bottom: 20px;
+}
+.pokemon-img {
+    background-color: #ffffff; /* Fond blanc */
+    padding: 10px; /* Facultatif : ajoute un espacement autour de l'image */
+    border-radius: 5px; /* Facultatif : arrondi les coins pour un meilleur visuel */
+}

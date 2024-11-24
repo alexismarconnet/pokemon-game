@@ -1,0 +1,54 @@
+{% extends 'blog/base.txt' %}
+
+{% block content %}
+<div class="container text-center">
+    <h2 class="mt-4">Un Pokémon sauvage apparaît !</h2>
+    <div class="card mx-auto shadow mt-4" style="max-width: 400px; border-radius: 12px; overflow: hidden; border: 2px solid #000;">
+        <img src="{{ pokemon_sauvage.photo }}" class="card-img-top" alt="{{ pokemon_sauvage.id_character }}" style="height: 300px; object-fit: contain; background-color: #f4f4f4;">
+        <div class="card-body" style="background-color: #1e1e1e; color: #ffffff;">
+            <h5 class="card-title text-uppercase" style="font-weight: bold;">{{ pokemon_sauvage.id_character }}</h5>
+            <p>
+                Type : 
+                <span class="badge" 
+                      style="
+                      {% if pokemon_sauvage.type == 'Electrik' %} background-color: #f7d51d; {% endif %}
+                      {% if pokemon_sauvage.type == 'Eau' %} background-color: #007BFF; {% endif %}
+                      {% if pokemon_sauvage.type == 'Roche' %} background-color: #a0522d; {% endif %}
+                      {% if pokemon_sauvage.type == 'Psy' %} background-color: #800080; {% endif %}
+                      {% if pokemon_sauvage.type == 'Sol' %} background-color: #d2b48c; {% endif %}
+                      {% if pokemon_sauvage.type == 'Poison' %} background-color: #8a2be2; {% endif %}
+                      {% if pokemon_sauvage.type == 'Fée' %} background-color: #ff69b4; {% endif %}
+                      {% if pokemon_sauvage.type == 'Feu' %} background-color: #ff4500; {% endif %}
+                      {% if pokemon_sauvage.type == 'Insecte' %} background-color: #9acd32; {% endif %}
+                      {% if pokemon_sauvage.type == 'Vol' %} background-color: #87ceeb; {% endif %}
+                      {% if pokemon_sauvage.type == 'Glace' %} background-color: #add8e6; {% endif %}
+                      {% if pokemon_sauvage.type == 'Dragon' %} background-color: #483d8b; {% endif %}
+                      {% if pokemon_sauvage.type == 'Normal' %} background-color: #ffffff; color: #000; {% endif %}
+                      color: #fff;">
+                    {{ pokemon_sauvage.type }}
+                </span>
+            </p>
+            <p>
+                État : 
+                <span class="badge" 
+                      style="
+                      {% if pokemon_sauvage.etat == 'En pleine santé' %} background-color: #00ff7f; {% endif %}
+                      {% if pokemon_sauvage.etat == 'Empoisonné' %} background-color: #800080; {% endif %}
+                      {% if pokemon_sauvage.etat == 'Paralysé' %} background-color: #ffd700; {% endif %}
+                      color: #000;">
+                    {{ pokemon_sauvage.etat }}
+                </span>
+            </p>
+        </div>
+    </div>
+
+    <div class="mt-4">
+        <form method="POST">
+            {% csrf_token %}
+            <button name="capture" type="submit" class="btn btn-success btn-lg mx-2">Capturer</button>
+            <button name="fuite" type="submit" class="btn btn-danger btn-lg mx-2">Fuir</button>
+        </form>
+        <a href="{% url 'character_detail' id_character=character.id_character %}" class="btn btn-secondary mt-3">Retour</a>
+    </div>
+</div>
+{% endblock %}

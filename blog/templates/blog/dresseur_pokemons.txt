@@ -1,0 +1,86 @@
+{% extends 'blog/base.txt' %}
+
+{% block content %}
+<div class="container">
+    <!-- Titre -->
+    <h2 class="text-center">Les Pokémon de {{ dresseur.nom }}</h2>
+    
+    <!-- Section Pokémon -->
+<div class="row row-cols-1 row-cols-md-3 g-4">
+        {% for pokemon in pokemons %}
+        <div class="col-md-4 mb-4 d-flex align-items-stretch">
+            <div class="card shadow-sm border-0 text-center pokemon-card" style="max-width: 300px; border-radius: 12px; overflow: hidden; border: 2px solid #000;">
+                <!-- Image du Pokémon -->
+                <img src="{{ pokemon.photo }}" class="card-img-top pokemon-img" alt="{{ pokemon.id_character }}" style="height: 200px; object-fit: cover;">
+                
+                <!-- Contenu de la carte -->
+                <div class="card-body" style="background-color: #1e1e1e; color: #ffffff;">
+                    <h6 class="text-muted">N° {{ pokemon.id_character }}</h6>
+                    <h5 class="card-title">{{ pokemon.nom }}</h5>
+                    <p>
+                        Type : 
+                        <span class="badge" 
+                              style="
+                              {% if pokemon.type == 'Electrik' %} background-color: #f7d51d; {% endif %}
+                              {% if pokemon.type == 'Eau' %} background-color: #007BFF; {% endif %}
+                              {% if pokemon.type == 'Roche' %} background-color: #a0522d; {% endif %}
+                              {% if pokemon.type == 'Psy' %} background-color: #800080; {% endif %}
+                              {% if pokemon.type == 'Sol' %} background-color: #d2b48c; {% endif %}
+                              color: #fff;">
+                            {{ pokemon.type }}
+                        </span>
+                    </p>
+                    <p>
+                        État : 
+                        <span class="badge" 
+                              style="
+                              {% if pokemon.etat == 'En pleine santé' %} background-color: #00ff7f; {% endif %}
+                              {% if pokemon.etat == 'Empoisonné' %} background-color: #800080; {% endif %}
+                              {% if pokemon.etat == 'Paralysé' %} background-color: #ffd700; {% endif %}
+                              color: #000;">
+                            {{ pokemon.etat }}
+                        </span>
+                    </p>
+                    <p>Lieu : {{ pokemon.lieu }}</p>
+                    <a href="{% url 'character_detail' id_character=pokemon.id_character %}" class="btn btn-outline-light mt-2">
+    Détails
+</a>
+
+ </a>
+    <a href="{% url 'relacher_pokemon' id_character=pokemon.id_character %}" 
+       class="btn btn-danger"
+       onclick="return confirm('Êtes-vous sûr de vouloir relâcher {{ pokemon.id_character }} ?')">
+        Relâcher
+    </a>
+
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    
+   <!-- Section Badges -->
+<h3 class="text-center mt-5">Badges Possédés</h3>
+<div class="row justify-content-center">
+    {% for badge in badges_possedes %}
+    <div class="col-md-2 mb-4 d-flex align-items-stretch">
+        <div class="card shadow-sm border-0 text-center" style="width: 150px; border-radius: 12px; overflow: hidden; border: 2px solid #000;">
+            <!-- Image du badge -->
+
+            <img src="{{ badge.photo }}" class="card-img-top" alt="{{ badge.nom }}" style="width: 100%; height: auto;">
+            
+            <!-- Nom du badge -->
+            <div class="card-body" style="background-color: #1e1e1e; color: #ffffff;">
+                <h6 class="card-title text-uppercase" style="font-weight: bold;">{{ badge.nom }}</h6>
+            </div>
+        </div>
+    </div>
+    {% empty %}
+    <p class="text-center">Aucun badge possédé.</p>
+    {% endfor %}
+ <!-- Bouton Retour -->
+    <div class="text-center mt-4">
+        <a href="{% url 'dresseur_list' %}" class="btn btn-secondary">Retour à la liste des dresseurs</a>
+    </div>
+</div>
+{% endblock %}
